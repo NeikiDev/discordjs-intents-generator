@@ -4,7 +4,7 @@ Open this Website:
 
 https://practical-deploy-1494-neiki.netlify.app/discordjs-utils/intents-generator-sequelizer
 
-## Note, if you dont know Intents well, use the Enums not magic Numbers!
+# DONT USE MAGIC NUMBERS, if you dont know what you are doing!
 ### Read more about Intents here:
 
 [DiscordJS Guide + Intents](https://discordjs.guide/popular-topics/intents.html#privileged-intents)
