@@ -16,6 +16,8 @@ https://practical-deploy-1494-neiki.netlify.app/discordjs-utils/intents-generato
 
 [Discord Developer Docs Gateways](https://discord.com/developers/docs/topics/gateway)
 
+[How do Intents Work](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f)
+
 
 ### Copy Link
 ```
