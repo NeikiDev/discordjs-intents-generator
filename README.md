@@ -18,7 +18,7 @@ https://practical-deploy-1494-neiki.netlify.app/discordjs-utils/intents-generato
 
 
 ### Copy Link
-`https://practical-deploy-1494-neiki.netlify.app/discordjs-utils/intents-generator-sequelizer`
+```https://practical-deploy-1494-neiki.netlify.app/discordjs-utils/intents-generator-sequelizer```
 
 
 
