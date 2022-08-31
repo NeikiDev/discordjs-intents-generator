@@ -2,7 +2,7 @@
 
 Open this Website:
 
-https://practical-deploy-1494-neiki.netlify.app/discordjs-utils/intents-generator-sequelizer
+https://neikidev.netlify.app/discordjs-utils/intents-generator-sequelizer
 
 <u><h1 style="color: red">DONT USE MAGIC NUMBERS</h1></u>
 ## if you dont know what you are doing!
@@ -21,7 +21,7 @@ https://practical-deploy-1494-neiki.netlify.app/discordjs-utils/intents-generato
 
 ### Copy Link
 ```
-https://practical-deploy-1494-neiki.netlify.app/discordjs-utils/intents-generator-sequelizer
+https://neikidev.netlify.app/discordjs-utils/intents-generator-sequelizer
 ```
 
 
